@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**willianaugustos/willianaugustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something special ⚛️
+- 🌱 I’m currently learning React and new programming languages
+- ☕️ Lets drink a coffee
 
-Here are some ideas to get you started:
+### Reach me at
+* Twitter: @willianaugustos [or click here](https://twitter.com/willianaugustos)
+* Linkedin: [click here](https://linkedin.com/in/willian-tech)
+* E-mail: hello@willcodes.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My testing and learning repos
+* My Hello World projects: [Hello World](/myHelloWorld)
+* Code Challenges: [Code Challenges](/CodeChallenges)
+* Test Frameworks: [Test Frameworks](/TestFrameworks)
+* Design Patterns: [Design Patterns](/DesignPatterns)
