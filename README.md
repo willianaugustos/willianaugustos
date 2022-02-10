@@ -10,7 +10,7 @@
 * E-mail: hello@willcodes.com
 
 ### My testing and learning repos
-* My Hello World projects: [Hello World](/myHelloWorld)
-* Code Challenges: [Code Challenges](/CodeChallenges)
-* Test Frameworks: [Test Frameworks](/TestFrameworks)
-* Design Patterns: [Design Patterns](/DesignPatterns)
+* My Hello World projects: [Hello World](https://github.com/willianaugustos/myHelloWorlds)
+* Code Challenges: [Code Challenges](https://github.com/willianaugustos/CodeChallenges)
+* Test Frameworks: [Test Frameworks](https://github.com/willianaugustos/TestFrameworks)
+* Design Patterns: [Design Patterns](https://github.com/willianaugustos/DesignPatterns)
