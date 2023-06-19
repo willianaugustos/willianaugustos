@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something special ⚛️
+- 🔭 I’m currently working on something special
 - 🌱 I’m currently learning React and new programming languages
 - ☕️ Lets drink a coffee
 
